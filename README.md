@@ -103,31 +103,7 @@ git push -u origin <your_branch_name>
 Hurray! You successfully made a contribution!
 
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/company/eduhub-community"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/company/codehubtech"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:eduhub.community@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-
-<h1 align=center> Project Mainteners ❤️ </h1>
-<p align="center">
-  <a href="https://github.com/SahityaRoy"><img src="https://avatars.githubusercontent.com/u/72821604?v=4" width=150px height=150px /></a> 
-	<p align="center">
-  <a href="https://github.com/Anuradha0501"><img src="https://avatars.githubusercontent.com/u/71958796?v=4" width=150px height=150px /></a> 
-		
-   <p align="center">
-  <a href="https://github.com/neha030"><img src="https://avatars.githubusercontent.com/u/72595335?v=4" width=150px height=150px /></a> 
-    
-	
-<h1 align=center> OUR VALUABLE CONTRIBUTORS✨ </h1>
-<p align="center">
-  
-	
-<a href="https://github.com/Eduhub-Community/upgrade-website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Eduhub-Community/upgrade-website" />
-</a>
-
-<h1 align=center>Happy Coding 👨‍💻 </h1>
-</p>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
