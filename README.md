@@ -1,12 +1,10 @@
-<h1 align="center">Eduhub Community Website </h1>
-<h4 align="center"> It’s a community for the people by the people. The vision of the community is to build an environment where people can learn together and implement together., We Organizes Open Source Programs, Hackathons and 1:1 Mentorships. </h4>
-<h3 align="center"> An Open Source Website for Eduhub Community built using HTML, CSS, JavaScript and Bootstrap Php </h3>
+<h1 align="center">CodeHub Website </h1>
+<h3 align="center"> An Open Source Website for Codehub built using HTML, CSS, JavaScript and Bootstrap Php </h3>
 
 ![Blue Yellow Futuristic Virtual Technology Blog Banner](https://user-images.githubusercontent.com/85386116/235354952-43cdbe31-f129-41c6-a74e-24c7bdc4d30c.jpg)
 
 # [Eduhub Community Website](https://eduhubcommunity.tech/eduhub-website/) 
-![](https://media-exp1.licdn.com/dms/image/C561BAQGHkaBU59EqbQ/company-background_10000/0/1625329990412?e=1637859600&v=beta&t=NCpLhsLu3BarBeEiz45qOjlxfB7qJaFIQKCFRsxRZNs)
-[**Eduhub Community**](https://eduhubcommunity.tech/)
+[**Eduhub Community**](https://www.linkedin.com/company/codehubtech)
 `Please join Our organization`
 
 <b>This repo will be <u> partcipating </u> in Open source events so let's contribute in this website and get into the world of open source **world**.</b>
@@ -19,11 +17,8 @@ We have other repositories in the organisation you can contribute to. If you wou
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCPpG3qqMH_0QDvSzHyjjZJQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/company/eduhub-community" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/eduhub_community)
-<a  href="https://t.me/joinchat/0Y0nT-yXjGxmM2Vl"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-[<img src = "https://img.shields.io/badge/discord-%23E4405F.svg?&style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/pdFu2waA3U)
+
+<a  href="https://www.linkedin.com/company/codehubtech" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -38,18 +33,18 @@ Questions can be asked by raising an `Issue`.
 
 ## 📌Contributing Guidelines :
 
-**1.** Fork [this](https://github.com/Eduhub-Community/eduhub-website) repository.
+**1.** Fork [this](https://github.com/LegendSumeet/all-in-one-tech) repository.
 
 **2.** Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your-github-username>/eduhub-website.git
+git clone https://github.com/<your-github-username>/all-in-one-tech.git
 ```
 
 **3.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Eduhub-Community/eduhub-website.git
+git remote add upstream https://github.com/LegendSumeet/all-in-one-tech.git
 ```
 
 **4.** Check the remotes for this repository.
@@ -104,6 +99,6 @@ Hurray! You successfully made a contribution!
 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/company/codehubtech"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:eduhub.community@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:vishwakarmasumeet01@gmail.com?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
