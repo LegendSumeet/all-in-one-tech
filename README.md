@@ -93,7 +93,7 @@ git push -u origin <your_branch_name>
 
 **13.** Click on `Create Pull Request`.
 
-**14.** Hurray ❗ You have created a PR to Eduhub-Community Website 💥 . Sit back patiently and relax till then the project maintainers will review your PR. Please understand, there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
+**14.** Hurray ❗ You have created a PR to all in one Website 💥 . Sit back patiently and relax till then the project maintainers will review your PR. Please understand, there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
 
 Hurray! You successfully made a contribution!
 
